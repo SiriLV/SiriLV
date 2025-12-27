@@ -1,11 +1,6 @@
 <div align="center">
-
 # Hello, World! I'm <span style="color:#bd00ff">Siri_Lv</span> (Siright)
-
-<!-- Анимированный заголовок или просто красивый текст -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=bd00ff,ff0055&height=120&section=header&text=Backend%20Developer%20&%20Linux%20Enthusiast&fontSize=30&fontColor=fff&animation=fadeIn" width="100%"/>
-
-<!-- Бейджи ОС и Языков -->
 <p>
   <img src="https://img.shields.io/badge/OS-EndeavourOS-7c3fbf?style=for-the-badge&logo=arch-linux&logoColor=white" alt="EndeavourOS"/>
   <img src="https://img.shields.io/badge/Infrastructure-3_Servers_(DE_|_UK)-ff0055?style=for-the-badge&logo=linux&logoColor=white" alt="Servers"/>
@@ -17,30 +12,24 @@
 
 ### 👨‍💻 System Status: `Online`
 
-Я разработчик, специализирующийся на **Python** и **GameDev**. Люблю Linux, автоматизацию и создание инструментов для работы с API.
+Я разработчик, специализирующийся на **Python** и **GameDev**. Люблю Linux =>
 
 ```python
 class Developer:
     def __init__(self):
         self.name = "Roman"
         self.alias = ["Siri_Lv", "Siright"]
-        self.os = "EndeavourOS"  # I use Arch btw (almost)
-        self.servers = {
-            "Germany": 2,
-            "UK": 1
-        }
+        self.os = "EndeavourOS"
+        self.servers = {"Germany": 2, "UK": 1}
 
     def get_stack(self):
-        return {
-            "Main": "Python",
-            "GameDev": "Godot (GDScript)",
-            "Other": ["C++", "Java", "Lua", "C#"]
-        }
-```
+        return {"Main": "Python", "GameDev": "Godot (GDScript)", "Other": ["C++", "Java", "Lua", "C#"]}
 
 me = Developer()
+```
+
 🛠 Tech Stack
-<div align="center"> <!-- Языки программирования с кастомными цветами (Фиолетовый/Красный градиент логика) --> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=bd00ff" /> <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white&color=9900ff" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=7700ff" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&color=ff0055" /> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&color=dd0044" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&color=b3003b" /> </div>
+<div align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=bd00ff" /> <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white&color=9900ff" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=7700ff" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&color=ff0055" /> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&color=dd0044" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&color=b3003b" /> </div>
 
 🚀 Featured Projects
 Project	Description	Tech / Link
