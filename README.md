@@ -1,114 +1,52 @@
-# 👋 Привет, я Роман
+<div align="center">
 
-### `@Siri_Lv` / `@Siright`
+# Hello, World! I'm <span style="color:#bd00ff">Siri_Lv</span> (Siright)
 
-[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
-[![Python](https://img.shields.io/badge/Python-9b59b6?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
-[![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)](https://godotengine.org/)
+<!-- Анимированный заголовок или просто красивый текст -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=bd00ff,ff0055&height=120&section=header&text=Backend%20Developer%20&%20Linux%20Enthusiast&fontSize=30&fontColor=fff&animation=fadeIn" width="100%"/>
 
-*Backend Developer • Game Developer • Security Researcher*
-**I use Arch btw** 🐧
+<!-- Бейджи ОС и Языков -->
+<p>
+  <img src="https://img.shields.io/badge/OS-EndeavourOS-7c3fbf?style=for-the-badge&logo=arch-linux&logoColor=white" alt="EndeavourOS"/>
+  <img src="https://img.shields.io/badge/Infrastructure-3_Servers_(DE_|_UK)-ff0055?style=for-the-badge&logo=linux&logoColor=white" alt="Servers"/>
+</p>
+
+</div>
 
 ---
 
-## 🖥️ `$ neofetch`
+### 👨‍💻 System Status: `Online`
 
-```bash
-siright@arch
-------------
-🏷️  Name:      Роман (Siri_Lv / Siright)
-💼  Role:      Backend Developer & Game Developer  
-🐧  OS:        Arch Linux x86_64
-🐍  Main:      Python
-🎮  Engine:    Godot
-🖥️  Servers:   3 (2x 🇩🇪 Germany, 1x 🇬🇧 UK)
-📦  PyPI:      ekogram
-🤖  Bot:       @Siright_Bot
-```
+Я разработчик, специализирующийся на **Python** и **GameDev**. Люблю Linux, автоматизацию и создание инструментов для работы с API.
 
-⚡ Tech Stack
-<div align="center">
-💜 Languages
-Python
-C++
-Java
-Lua
-C#
-GDScript
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Roman"
+        self.alias = ["Siri_Lv", "Siright"]
+        self.os = "EndeavourOS"  # I use Arch btw (almost)
+        self.servers = {
+            "Germany": 2,
+            "UK": 1
+        }
 
-🛠️ Tools & Frameworks
-Linux
-Arch
-Git
-Docker
-Telegram
-Godot
+    def get_stack(self):
+        return {
+            "Main": "Python",
+            "GameDev": "Godot (GDScript)",
+            "Other": ["C++", "Java", "Lua", "C#"]
+        }
 
-</div>
+me = Developer()
+🛠 Tech Stack
+<div align="center"> <!-- Языки программирования с кастомными цветами (Фиолетовый/Красный градиент логика) --> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=bd00ff" /> <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white&color=9900ff" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=7700ff" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&color=ff0055" /> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&color=dd0044" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&color=b3003b" /> </div>
 
-🚀 Projects
-<table> <tr> <td width="50%">
-🤖 AI Telegram Bot
-Умный Telegram бот с использованием искусственного интеллекта для автоматизации и общения.
+🚀 Featured Projects
+Project	Description	Tech / Link
+ekogram	📦 Модуль Python для работы с Telegram Bot API. Мощный и простой.	PyPI
+Ai Telegram Bot	🤖 Умный бот для Telegram с интеграцией AI.	Telegram
+Api Keys Parser	🔑 Сканер ключей GitHub и других ресурсов. Безопасность превыше всего.	Python Parsing
+GameDev	🎮 Разработка игр на движке Godot.	Godot Engine
 
-Telegram
-Python Telegram API AI/ML
-
-</td> <td width="50%">
-📦 ekogram
-Python модуль для упрощения работы с различными API. Опубликован на PyPI.
-
-PyPI
-
-Python PyPI Library
-
-</td> </tr> <tr> <td width="50%">
-🔑 API Keys Parser
-Мощный сканер для поиска API ключей на GitHub и других платформах.
-
-Private
-
-Python Security Parsing
-
-</td> <td width="50%">
-🎮 Godot Games
-Разработка инди-игр на движке Godot с использованием GDScript и C#.
-
-In Dev
-
-Godot GDScript C#
-
-</td> </tr> </table>
-🌍 Infrastructure
-<div align="center">
-┌─────────────────────────────────────────────────────────────┐
-│                      🌐 MY SERVERS                          │
-├───────────────────┬───────────────────┬─────────────────────┤
-│    🇩🇪 Germany    │    🇩🇪 Germany    │    🇬🇧 UK           │
-│    Server #1      │    Server #2      │    Server #3        │
-│    ● Online       │    ● Online       │    ● Online         │
-└───────────────────┴───────────────────┴─────────────────────┘
-</div>
-
-📊 Skills Level
-Python      ████████████████████░░░░░  95%
-Godot       ████████████████░░░░░░░░░  80%
-C++         ███████████████░░░░░░░░░░  75%
-Java        ██████████████░░░░░░░░░░░  70%
-C#          ██████████████░░░░░░░░░░░  70%
-Lua         █████████████░░░░░░░░░░░░  65%
-
-📫 Connect
-<div align="center">
-Telegram Bot
-PyPI
-
-</div>
-<div align="center">
-💜 Made with love by Siright
-Bash
-
-$ echo "Keep it simple, stupid. Use Arch btw."
-Visitor Count
-
-</div>
+📊 GitHub Stats
+<div align="center"> <!-- Статистика с фиолетовой темой --> <img src="https://github-readme-stats.vercel.app/api?username=Siright&show_icons=true&theme=radical&hide_border=true&bg_color=140014&title_color=bd00ff&icon_color=ff0055" height="150" alt="stats graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siright&layout=compact&theme=radical&hide_border=true&bg_color=140014&title_color=bd00ff" height="150" alt="languages graph" /> </div> <br/> <div align="center"> <a href="https://t.me/Siright_Bot"> <img src="https://img.shields.io/badge/Contact-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=bd00ff" /> </a> </div> ```
