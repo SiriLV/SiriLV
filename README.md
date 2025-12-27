@@ -5,15 +5,12 @@
   <img src="https://img.shields.io/badge/OS-EndeavourOS-7c3fbf?style=for-the-badge&logo=arch-linux&logoColor=white" alt="EndeavourOS"/>
   <img src="https://img.shields.io/badge/Infrastructure-3_Servers_(DE_|_UK)-ff0055?style=for-the-badge&logo=linux&logoColor=white" alt="Servers"/>
 </p>
-
 </div>
 
----
-
+*-----------------------*
 ### 👨‍💻 System Status: `Online`
 
 Я разработчик, специализирующийся на **Python** и **GameDev**. Люблю Linux =>
-
 ```python
 class Developer:
     def __init__(self):
@@ -27,8 +24,9 @@ class Developer:
 
 me = Developer()
 ```
-🛠 Tech Stack
-<b>-----------------------<b/>
+
+*-----------------------*
+<div align="center">🛠 Tech Stack</div>
 <div align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=bd00ff" /> <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white&color=9900ff" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=7700ff" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&color=ff0055" /> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&color=dd0044" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&color=b3003b" /> </div>
 
 🚀 Featured Projects
