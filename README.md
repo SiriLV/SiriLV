@@ -49,6 +49,4 @@ Ai Telegram Bot	🤖 Умный бот для Telegram с интеграцией
 Api Keys Parser	🔑 Сканер ключей GitHub и других ресурсов. Безопасность превыше всего.	Python Parsing
 GameDev	🎮 Разработка игр на движке Godot.	Godot Engine
 
-📊 GitHub Stats
-<div align="center"> <!-- Статистика с фиолетовой темой --> <img src="https://github-readme-stats.vercel.app/apiusername=Siright&show_icons=true&theme=radical&hide_border=true&bg_color=140014&title_color=bd00ff&icon_color=ff0055"
-height="150" alt="stats graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/username=Siright&layout=compact&theme=radical&hide_border=true&bg_color=140014&title_color=bd00ff" height="150" alt="languages graph" /> </div> <br/> <div align="center"> <a href="https://t.me/Siright_Bot"> <img src="https://img.shields.io/badge/Contact-Telegram-2CA5E0?style=for-thebadge&logo=telegram&logoColor=white&color=bd00ff" /> </a> </div> ```
+<div align="center"> <a href="https://t.me/Siright_Bot"> <img src="https://img.shields.io/badge/Contact-Telegram-2CA5E0?style=for-thebadge&logo=telegram&logoColor=white&color=bd00ff" /> </a> </div>
