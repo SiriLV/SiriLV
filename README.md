@@ -28,6 +28,8 @@ siright@arch
 📦  PyPI:      ekogram
 🤖  Bot:       @Siright_Bot
 ⚡ Tech Stack
+```
+
 <div align="center">
 💜 Languages
 Python
