@@ -1,5 +1,5 @@
 <div align="center">
-<b><span style="color:#bd00ff"># Hello, World! I'm Siri_Lv</span> (Siright)</color></b>
+<b><span style="color:#bd00ff">I'm Siri_Lv</span>(Siright)</b>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=bd00ff,ff0055&height=120&section=header&text=Backend%20Developer%20&%20Linux%20Enthusiast&fontSize=30&fontColor=fff&animation=fadeIn" width="100%"/>
 <p>
   <img src="https://img.shields.io/badge/OS-EndeavourOS-7c3fbf?style=for-the-badge&logo=arch-linux&logoColor=white" alt="EndeavourOS"/>
