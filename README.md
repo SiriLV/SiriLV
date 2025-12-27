@@ -31,9 +31,12 @@ me = Developer()
 
 🚀 Featured Projects
 
-ekogram	- 📦 Модуль Python для работы с Telegram Bot API\n
-Siri - 🤖 Умный бот для Telegram с интеграцией AI.	Telegram\n
-Api Keys Parser - 🔑 Сканер ключей GitHub и других ресурсов\n
+ekogram	- 📦 Модуль Python для работы с Telegram Bot API
+
+Siri - 🤖 Умный бот для Telegram с интеграцией AI.	Telegram
+
+Api Keys Parser - 🔑 Сканер ключей GitHub и других ресурсов
+
 GameDev - 🎮 Разработка игр на движке Godot.	Godot Engine
 
 <div align="center"> <a href="https://t.me/Siright_Bot"> <img src="https://img.shields.io/badge/Contact-Telegram-2CA5E0?style=for-thebadge&logo=telegram&logoColor=white&color=bd00ff" /> </a> </div>
