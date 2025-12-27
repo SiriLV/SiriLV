@@ -27,12 +27,12 @@ class Developer:
 
 me = Developer()
 ```
-
-<div align="center">
 🛠 Tech Stack
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=bd00ff" /> <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white&color=9900ff" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=7700ff" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&color=ff0055" /> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&color=dd0044" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&color=b3003b" /> </div>
+<b>-----------------------<b/>
+<div align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=bd00ff" /> <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white&color=9900ff" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=7700ff" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&color=ff0055" /> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&color=dd0044" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&color=b3003b" /> </div>
 
 🚀 Featured Projects
+
 ekogram	- 📦 Модуль Python для работы с Telegram Bot API
 Siri - 🤖 Умный бот для Telegram с интеграцией AI.	Telegram
 Api Keys Parser - 🔑 Сканер ключей GitHub и других ресурсов. Безопасность превыше всего.
