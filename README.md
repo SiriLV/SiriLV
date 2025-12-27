@@ -7,10 +7,7 @@
 [![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)](https://godotengine.org/)
 
 *Backend Developer • Game Developer • Security Researcher*
-
 **I use Arch btw** 🐧
-
-</div>
 
 ---
 
@@ -27,9 +24,9 @@ siright@arch
 🖥️  Servers:   3 (2x 🇩🇪 Germany, 1x 🇬🇧 UK)
 📦  PyPI:      ekogram
 🤖  Bot:       @Siright_Bot
-⚡ Tech Stack
 ```
 
+⚡ Tech Stack
 <div align="center">
 💜 Languages
 Python
@@ -48,13 +45,13 @@ Telegram
 Godot
 
 </div>
+
 🚀 Projects
 <table> <tr> <td width="50%">
 🤖 AI Telegram Bot
 Умный Telegram бот с использованием искусственного интеллекта для автоматизации и общения.
 
 Telegram
-
 Python Telegram API AI/ML
 
 </td> <td width="50%">
@@ -94,15 +91,15 @@ text
 │    ● Online       │    ● Online       │    ● Online         │
 └───────────────────┴───────────────────┴─────────────────────┘
 </div>
-📊 Skills Level
-text
 
+📊 Skills Level
 Python      ████████████████████░░░░░  95%
 Godot       ████████████████░░░░░░░░░  80%
 C++         ███████████████░░░░░░░░░░  75%
 Java        ██████████████░░░░░░░░░░░  70%
 C#          ██████████████░░░░░░░░░░░  70%
 Lua         █████████████░░░░░░░░░░░░  65%
+
 📫 Connect
 <div align="center">
 Telegram Bot
@@ -116,4 +113,4 @@ Bash
 $ echo "Keep it simple, stupid. Use Arch btw."
 Visitor Count
 
-</div> ```
+</div>
