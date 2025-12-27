@@ -36,6 +36,7 @@ class Developer:
             "GameDev": "Godot (GDScript)",
             "Other": ["C++", "Java", "Lua", "C#"]
         }
+```
 
 me = Developer()
 🛠 Tech Stack
