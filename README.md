@@ -16,10 +16,10 @@ class Developer:
         self.name = "Roman"
         self.alias = ["Siri_Lv", "Siright"]
         self.os = "EndeavourOS"
-        self.servers = {"Germany": 2, "UK": 1}
+        self.servers = {"Germany": 4, "UK": 1, "Poland": 1}
 
     def get_stack(self):
-        return {"Main": "Python", "GameDev": "Godot (GDScript)", "Other": ["C++", "Java", "Lua", "C#"]}
+        return {"Main": "Python", "GameDev": "Godot (GDScript)", "Other": ["C++", "Java", "Lua", "C#", "Go"]}
 
 me = Developer()
 ```
@@ -34,7 +34,7 @@ neogram	- 📦 Модуль Python для работы с Telegram Bot API
 
 Zlyka - 🤖 Умный бот для Telegram с интеграцией AI.	Telegram
 
-Api Keys Parser - 🔑 Сканер ключей GitHub и других ресурсов
+Api Keys Parser - 🔑 Сканер и валидатор ключей GitHub и других ресурсов
 
 GameDev - 🎮 Разработка игр на движке Godot.	Godot Engine
 
